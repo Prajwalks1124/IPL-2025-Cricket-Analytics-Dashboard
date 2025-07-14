@@ -40,7 +40,8 @@ The dashboard was developed using:
 
 ### 🎯 Business Problem
 
-IPL generates large volumes of performance data — but in raw form, it’s hard to interpret. Coaches, fans, and analysts require tools to assess which players or teams are performing well across different dimensions.
+IPL 2025 data includes hundreds of stats on players and teams, but viewing it in spreadsheets makes it hard to spot trends or top performers. This project turns that raw data into a clear, visual Power BI dashboard that helps users quickly analyze batting and bowling performance, team impact, and season highlights.
+
 
 ---
 
