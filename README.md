@@ -92,6 +92,6 @@ To build a performance-driven cricket analytics tool that:
 
 ## 🖼️ 6. Screenshots
 Dashboard looks like - 
-![Batting Performance](./Screenshots/batting_dashboard.png)
+![Batting Performance](https://github.com/Prajwalks1124/IPL-2025-Cricket-Analytics-Dashboard/blob/main/Batters%20Dashboard.png)
 ![Bowling Performance](./Screenshots/bowling_dashboard.png)
 ![KPI Summary](./Screenshots/kpi_cards.png)
