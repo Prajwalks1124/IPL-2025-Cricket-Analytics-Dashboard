@@ -94,4 +94,5 @@ To build a performance-driven cricket analytics tool that:
 Dashboard looks like - 
 ![Batting Performance](https://github.com/Prajwalks1124/IPL-2025-Cricket-Analytics-Dashboard/blob/main/Batters%20Dashboard.png)
 ![Bowling Performance](https://github.com/Prajwalks1124/IPL-2025-Cricket-Analytics-Dashboard/blob/main/Bowlers%20Dashboard.png)
+!Power BI file: ![Dashboard file].()
 Example: ![Dashboard Preview].()
